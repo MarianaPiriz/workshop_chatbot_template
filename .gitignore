@@ -16,5 +16,3 @@ venv/
 # Streamlit
 .streamlit/cache/
 
-# Student-added content (optional local data)
-company_data/
